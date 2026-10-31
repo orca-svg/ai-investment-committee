@@ -1,0 +1,15 @@
+{
+  "name": "ai-investment-committee",
+  "private": true,
+  "version": "0.0.1",
+  "description": "성향이 다른 AI 위원들의 견해를 Black-Litterman 수식으로 합치고, 사람이 위원장으로 신뢰도·개념 정의를 조정해 승인하는 웹 앱",
+  "type": "module",
+  "engines": {
+    "node": ">=22.9"
+  },
+  "scripts": {
+    "start": "node server.mjs",
+    "test": "node test/sanity.mjs",
+    "gen-data": "node scripts/gen-data.mjs"
+  }
+}
