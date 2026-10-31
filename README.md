@@ -3,7 +3,7 @@
 성향이 다른 AI 위원 3명이 근거와 함께 투자 의견을 내고, 사람은 **위원장**으로서 누구를 얼마나 믿을지와 판단 기준을 정한 뒤 승인하는 웹 앱입니다. 위원들의 의견은 LLM이 말로 합치지 않고 **Black-Litterman 수식**으로 합칩니다.
 
 - 데모: https://orca-svg.github.io/ai-investment-committee/
-- GDGoC DevFest 2026 「Tell the Vision」 · Team 06 SYNAPSE-X · 주제 경제 · 소통
+- GDGoC DevFest 2026 「Tell the Vision」 · Team 06 Money is Our Life · 주제 경제 · 소통
 - 상태: 비교용 low-fi 프로토타입. 데이터는 시드를 고정한 난수로 만든 샘플이며 실제 시세가 아닙니다. 매매도 모의 매매만 합니다.
 
 ## 왜 만들었나
